@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="18" fill="#0d9488"/>
+  <g transform="translate(18,20)">
+    <path d="M6 18 L18 6 L30 18" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="2" y="28" width="56" height="10" rx="3" fill="white" opacity="0.9"/>
+  </g>
+  <text x="60" y="108" font-family="Inter, Arial" font-size="12" fill="#0b1720" text-anchor="middle">Lancar Labs</text>
+</svg>
