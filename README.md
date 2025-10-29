@@ -24,3 +24,5 @@ Buka `index.html` di browser. Untuk hosting cepat gunakan GitHub Pages: push sel
 ## Catatan
 - Form kontak hanya demo (tidak terkirim) — tambahkan backend atau layanan form jika ingin fungsional.
 - Flowchart/ERD dibuat sebagai SVG sederhana supaya mudah disunting.
+
+link deploy https://evaluasi-bulanan-1-five.vercel.app/
